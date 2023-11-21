@@ -1,6 +1,6 @@
 - Hi, I’m @bvsh1
 - I’m interested in learning programming in different languages
-- I’m currently learning C++
+- I’m currently learning Java
 - How to reach me navarretesebastian2@gmail.com
 
 <!---
