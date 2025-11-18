@@ -29,7 +29,7 @@
 <h3 align="center">Conéctate conmigo</h3>
 
 <div align="center">
-   <a href=https://linkedin.com/in/TU_USUARIO_LINKEDIN"](https://www.linkedin.com/in/sebasti%C3%A1n-navarrete-recabal-3a6134223 target="_blank">
+   <a href=https://www.linkedin.com/in/sebasti%C3%A1n-navarrete-recabal-3a6134223 target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
    <a href=https://discord.com/users/_bvsh_ target="_blank">
